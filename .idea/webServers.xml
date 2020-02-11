@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="58bf832b-8466-4a58-91c3-5afa6c37764a" name="payment" url="http://payment">
+        <fileTransfer port="0" mountedRoot="C:\Users\dzen\Downloads\OSPanel\domains\payment" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
